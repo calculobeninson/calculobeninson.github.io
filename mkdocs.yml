@@ -105,6 +105,7 @@ nav:
     - Teoría:
       - Teórica 1: clases/teorica1.md
       - Intro a Git y GitHub: clases/git.md
+      - Teórica 2: clases/teorica2.md
   - Guías de ejercicios: 
     - ejercicios/README.md
     - Guía 1: ejercicios/guia1.md
