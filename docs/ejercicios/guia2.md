@@ -8,7 +8,7 @@
     
     Resuélvalo y represente el resultado gráficamente.
     
-1.  Se tiene una barra de $1\;m$ de longitud, con sus extremos a $40^\circ C$ y $20^\circ C$. Cuando dicho medio se encuentra a una temperatura de $100^\circ C$, la barra pierde calor por convección natural con un coeficiente de convección $h_0 = 5 \frac{W}{m^{2} ^\circ C}$. Considere un conjunto de puntos equiespaciados ${x_i}_{i=1,...,N}$, con $x_1$ y $x_N$ en los extremos de la barra. El estado estacionario de la misma (cuando la temperatura ya no cambia en su interior) puede resolverse numéricamente mediante el siguiente sistema de ecuaciones:
+1.  Se tiene una barra de $1\;m$ de longitud, con sus extremos a $40^\circ C$ y $20^\circ C$. Cuando dicho medio se encuentra a una temperatura de $100^\circ C$, la barra pierde calor por convección natural con un coeficiente de convección $h_0 = 5 \frac{W}{m^{2}\;^\circ C}$. Considere un conjunto de puntos equiespaciados $\{x_i\}_{i=1,...,N}$, con $x_1$ y $x_N$ en los extremos de la barra. El estado estacionario de la misma (cuando la temperatura ya no cambia en su interior) puede resolverse numéricamente mediante el siguiente sistema de ecuaciones:
 
     $$ T_1 = 40 $$
     
