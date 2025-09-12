@@ -110,6 +110,8 @@ nav:
       - Teórica 4: clases/teorica4.md
       - Teórica 5: clases/teorica5.md
       - Teórica 6: clases/teorica6.md
+      - Teórica 7: clases/teorica7.md
+      - Ejercicios diferencias finitas: clases/ejs_diffin.md
   - Guías de ejercicios: 
     - ejercicios/README.md
     - Guía 1: ejercicios/guia1.md
