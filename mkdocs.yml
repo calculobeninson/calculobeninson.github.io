@@ -112,7 +112,8 @@ nav:
       - Teórica 6: clases/teorica6.md
       - Teórica 7: clases/teorica7.md
       - Ejercicios diferencias finitas: clases/ejs_diffin.md
-      - Ejemplo ejercicio elementos finitos: clases/ejemplo_ef.md  
+      - Ejemplo ejercicio elementos finitos: clases/ejemplo_ef.md
+      - Problemas mixtos: clases/prob_mixt.md  
   - Guías de ejercicios: 
     - ejercicios/README.md
     - Guía 1: ejercicios/guia1.md
